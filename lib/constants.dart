@@ -1,0 +1,1 @@
+const String NAMESPACE = 'plugins.adtv.io/flutter_bluetooth_classic';
